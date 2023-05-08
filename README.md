@@ -3,7 +3,7 @@ Ekta Kumari
 
 About Me
 
-I am a second-year Information Technology student with a current CGPA of 8.1. I am interested in front-end development. In addition to my technical skills, I also possess excellent communication, teamwork, and management skills.
+I am a second-year Information Technology student in Galgotias college of engineering and technology. I am interested in front-end development. In addition to my technical skills, I also possess excellent communication, teamwork, and management skills.
 
 Skills
 
